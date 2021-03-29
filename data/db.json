@@ -1,22 +1,22 @@
 {
   "notes": [
     {
-      "title": "Yoshi's birthday bash",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "reminders",
-      "id": 1
-    },
-    {
       "title": "Complete my ninja training",
       "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
       "category": "work",
       "id": 2
     },
     {
-      "title": "Order a pizza!",
-      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "category": "todos",
-      "id": 3
+      "title": "Opening Party",
+      "details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam posuere lacus quis dolor. Aliquam erat volutpat. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Nullam eget nisl. Nunc tincidunt ante vitae massa. In convallis. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Mauris tincidunt sem sed arcu. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Maecenas aliquet accumsan leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Thank You Ninja",
+      "details": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam posuere lacus quis dolor. Aliquam erat volutpat. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Nullam eget nisl. Nunc tincidunt ante vitae massa. In convallis. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Mauris tincidunt sem sed arcu. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Maecenas aliquet accumsan leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+      "category": "money",
+      "id": 5
     }
   ]
 }
